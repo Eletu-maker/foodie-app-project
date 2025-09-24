@@ -17,6 +17,7 @@
     "xss": "^1.0.15"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.13.3",
     "eslint": "^8",
     "eslint-config-next": "14.0.3"
   }
